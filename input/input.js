@@ -1,7 +1,7 @@
 (function() {
-    var milkcocoa = new MilkCocoa("https://<<maxiqvq10o4>>.mlkcca.com");
-    var ds = milkcocoa.dataStore("somthing");
-    $(document).keydown(function(e) {
+    var milkcocoa = new MilkCocoa('maxiqvq10o4.mlkcca.com');
+    var ds = milkcocoa.dataStore("something");
+    $(document).onkeydown(function(e) {
         if (e.keyCode == 38) {
             ds.send({arrow: "up"});
 
