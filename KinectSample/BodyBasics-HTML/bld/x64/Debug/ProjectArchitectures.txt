@@ -1,2 +1,2 @@
-C:\Users\SaitoDaiki\Desktop\Kinect_Project\KinectSample\BodyBasics-HTML\BodyBasics-HTML.jsproj;x64
-C:\Users\SaitoDaiki\Desktop\Kinect_Project\KinectSample\KinectImageProcessor\KinectImageProcessor.vcxproj;x64
+C:\Users\SaitoDaiki\Desktop\Kinect_Project-master\KinectSample\BodyBasics-HTML\BodyBasics-HTML.jsproj;x64
+C:\Users\SaitoDaiki\Desktop\Kinect_Project-master\KinectSample\KinectImageProcessor\KinectImageProcessor.vcxproj;x64

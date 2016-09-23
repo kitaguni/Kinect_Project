@@ -7,7 +7,7 @@
     <SolutionConfiguration>Debug|x64</SolutionConfiguration>
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>7b3444b9-3b25-4d5a-829a-b483cc015d77</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\SaitoDaiki\Desktop\Kinect_Project\KinectSample\BodyBasics-HTML\bld\x64\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\SaitoDaiki\Desktop\Kinect_Project-master\KinectSample\BodyBasics-HTML\bld\x64\Debug\</IntermediateOutputPath>
     <RegisteredManifestChecksum>1E9C7878A680D6BCA87E3DBB9800078758CBDCE5F1CAB056269169758913524F</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>7b3444b9-3b25-4d5a-829a-b483cc015d77_1.1.0.0_x64__9fc6r6gc5hgxg</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>7b3444b9-3b25-4d5a-829a-b483cc015d77_9fc6r6gc5hgxg!App</RegisteredUserModeAppID>
@@ -17,74 +17,78 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\SaitoDaiki\Desktop\Kinect_Project\KinectSample\BodyBasics-HTML\bin\x64\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\SaitoDaiki\Desktop\Kinect_Project-master\KinectSample\BodyBasics-HTML\bin\x64\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-08-19T02:41:57.357</Modified>
+      <Modified>2016-09-23T00:38:09.716</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\SaitoDaiki\Desktop\Kinect_Project\KinectSample\BodyBasics-HTML\x64\Debug\KinectImageProcessor\KinectImageProcessor.winmd">
+    <AppxPackagedFile Include="C:\Users\SaitoDaiki\Desktop\Kinect_Project-master\KinectSample\BodyBasics-HTML\x64\Debug\KinectImageProcessor\KinectImageProcessor.winmd">
       <PackagePath>KinectImageProcessor.winmd</PackagePath>
-      <Modified>2016-08-19T02:38:05.797</Modified>
+      <Modified>2016-08-19T03:25:13.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SaitoDaiki\Desktop\Kinect_Project\KinectSample\BodyBasics-HTML\x64\Debug\KinectImageProcessor\KinectImageProcessor.dll">
+    <AppxPackagedFile Include="C:\Users\SaitoDaiki\Desktop\Kinect_Project-master\KinectSample\BodyBasics-HTML\x64\Debug\KinectImageProcessor\KinectImageProcessor.dll">
       <PackagePath>KinectImageProcessor.dll</PackagePath>
-      <Modified>2016-08-19T02:38:05.875</Modified>
+      <Modified>2016-09-23T00:38:04.785</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SaitoDaiki\Desktop\Kinect_Project\KinectSample\BodyBasics-HTML\css\default.css">
+    <AppxPackagedFile Include="C:\Users\SaitoDaiki\Desktop\Kinect_Project-master\KinectSample\BodyBasics-HTML\css\default.css">
       <PackagePath>css\default.css</PackagePath>
-      <Modified>2014-10-19T03:43:10.000</Modified>
+      <Modified>2016-08-19T03:25:13.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SaitoDaiki\Desktop\Kinect_Project\KinectSample\BodyBasics-HTML\default.html">
+    <AppxPackagedFile Include="C:\Users\SaitoDaiki\Desktop\Kinect_Project-master\KinectSample\BodyBasics-HTML\default.html">
       <PackagePath>default.html</PackagePath>
-      <Modified>2016-08-19T02:37:35.170</Modified>
+      <Modified>2016-09-23T00:35:06.633</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SaitoDaiki\Desktop\Kinect_Project\KinectSample\BodyBasics-HTML\images\kinectlogo.png">
+    <AppxPackagedFile Include="C:\Users\SaitoDaiki\Desktop\Kinect_Project-master\KinectSample\BodyBasics-HTML\images\kinectlogo.png">
       <PackagePath>images\kinectlogo.png</PackagePath>
-      <Modified>2014-10-19T03:43:10.000</Modified>
+      <Modified>2016-08-19T03:25:13.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SaitoDaiki\Desktop\Kinect_Project\KinectSample\BodyBasics-HTML\images\logo.png">
+    <AppxPackagedFile Include="C:\Users\SaitoDaiki\Desktop\Kinect_Project-master\KinectSample\BodyBasics-HTML\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-10-19T03:43:10.000</Modified>
+      <Modified>2016-08-19T03:25:13.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SaitoDaiki\Desktop\Kinect_Project\KinectSample\BodyBasics-HTML\images\smalllogo.png">
+    <AppxPackagedFile Include="C:\Users\SaitoDaiki\Desktop\Kinect_Project-master\KinectSample\BodyBasics-HTML\images\smalllogo.png">
       <PackagePath>images\smalllogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-10-19T03:43:10.000</Modified>
+      <Modified>2016-08-19T03:25:13.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SaitoDaiki\Desktop\Kinect_Project\KinectSample\BodyBasics-HTML\images\splashscreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\SaitoDaiki\Desktop\Kinect_Project-master\KinectSample\BodyBasics-HTML\images\splashscreen.scale-100.png">
       <PackagePath>images\splashscreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-10-19T03:43:10.000</Modified>
+      <Modified>2016-08-19T03:25:13.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SaitoDaiki\Desktop\Kinect_Project\KinectSample\BodyBasics-HTML\images\splashscreen.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\SaitoDaiki\Desktop\Kinect_Project-master\KinectSample\BodyBasics-HTML\images\splashscreen.scale-140.png">
       <PackagePath>images\splashscreen.scale-140.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-10-19T03:43:10.000</Modified>
+      <Modified>2016-08-19T03:25:13.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SaitoDaiki\Desktop\Kinect_Project\KinectSample\BodyBasics-HTML\images\splashscreen.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\SaitoDaiki\Desktop\Kinect_Project-master\KinectSample\BodyBasics-HTML\images\splashscreen.scale-180.png">
       <PackagePath>images\splashscreen.scale-180.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-10-19T03:43:10.000</Modified>
+      <Modified>2016-08-19T03:25:13.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SaitoDaiki\Desktop\Kinect_Project\KinectSample\BodyBasics-HTML\images\Status.png">
+    <AppxPackagedFile Include="C:\Users\SaitoDaiki\Desktop\Kinect_Project-master\KinectSample\BodyBasics-HTML\images\Status.png">
       <PackagePath>images\Status.png</PackagePath>
-      <Modified>2014-10-19T03:43:10.000</Modified>
+      <Modified>2016-08-19T03:25:13.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SaitoDaiki\Desktop\Kinect_Project\KinectSample\BodyBasics-HTML\images\storelogo.png">
+    <AppxPackagedFile Include="C:\Users\SaitoDaiki\Desktop\Kinect_Project-master\KinectSample\BodyBasics-HTML\images\storelogo.png">
       <PackagePath>images\storelogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-10-19T03:43:10.000</Modified>
+      <Modified>2016-08-19T03:25:13.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SaitoDaiki\Desktop\Kinect_Project\KinectSample\BodyBasics-HTML\js\default.js">
+    <AppxPackagedFile Include="C:\Users\SaitoDaiki\Desktop\Kinect_Project-master\KinectSample\BodyBasics-HTML\js\default.js">
       <PackagePath>js\default.js</PackagePath>
-      <Modified>2014-10-19T03:43:10.000</Modified>
+      <Modified>2016-09-23T00:59:02.530</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SaitoDaiki\Desktop\Kinect_Project\KinectSample\BodyBasics-HTML\bin\x64\Debug\ReverseMap\resources.pri">
+    <AppxPackagedFile Include="C:\Users\SaitoDaiki\Desktop\Kinect_Project-master\KinectSample\BodyBasics-HTML\js\milkcocoa.js">
+      <PackagePath>js\milkcocoa.js</PackagePath>
+      <Modified>2016-09-23T00:45:33.453</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\SaitoDaiki\Desktop\Kinect_Project-master\KinectSample\BodyBasics-HTML\bin\x64\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-08-19T02:41:55.779</Modified>
+      <Modified>2016-09-23T00:38:07.413</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
